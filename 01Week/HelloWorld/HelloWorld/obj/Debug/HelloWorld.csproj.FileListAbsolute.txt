@@ -1,0 +1,6 @@
+C:\Users\Eric Leon\Documents\git\csharp-workbook\01Week\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\Eric Leon\Documents\git\csharp-workbook\01Week\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\Eric Leon\Documents\git\csharp-workbook\01Week\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\Eric Leon\Documents\git\csharp-workbook\01Week\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+C:\Users\Eric Leon\Documents\git\csharp-workbook\01Week\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\Eric Leon\Documents\git\csharp-workbook\01Week\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
