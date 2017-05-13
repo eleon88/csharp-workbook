@@ -1,0 +1,6 @@
+C:\Users\Eric Leon\Documents\git\csharp-workbook\02Week\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe.config
+C:\Users\Eric Leon\Documents\git\csharp-workbook\02Week\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
+C:\Users\Eric Leon\Documents\git\csharp-workbook\02Week\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+C:\Users\Eric Leon\Documents\git\csharp-workbook\02Week\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csprojResolveAssemblyReference.cache
+C:\Users\Eric Leon\Documents\git\csharp-workbook\02Week\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe
+C:\Users\Eric Leon\Documents\git\csharp-workbook\02Week\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb
