@@ -4,3 +4,5 @@ C:\Users\Eric Leon\Documents\git\csharp-workbook\03Week\TeamCreator\TeamCreator\
 C:\Users\Eric Leon\Documents\git\csharp-workbook\03Week\TeamCreator\TeamCreator\bin\Debug\TeamCreator.pdb
 C:\Users\Eric Leon\Documents\git\csharp-workbook\03Week\TeamCreator\TeamCreator\obj\Debug\TeamCreator.exe
 C:\Users\Eric Leon\Documents\git\csharp-workbook\03Week\TeamCreator\TeamCreator\obj\Debug\TeamCreator.pdb
+V:\Temp Files for ACA\csharp-workbook\03Week\TeamCreator\TeamCreator\bin\Debug\TeamCreator.exe.config
+V:\Temp Files for ACA\csharp-workbook\03Week\TeamCreator\TeamCreator\obj\Debug\TeamCreator.pdb

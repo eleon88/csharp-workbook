@@ -1,0 +1,6 @@
+V:\Temp Files for ACA\csharp-workbook\01Week\Practice\Practice\bin\Debug\Practice.exe.config
+V:\Temp Files for ACA\csharp-workbook\01Week\Practice\Practice\bin\Debug\Practice.exe
+V:\Temp Files for ACA\csharp-workbook\01Week\Practice\Practice\bin\Debug\Practice.pdb
+V:\Temp Files for ACA\csharp-workbook\01Week\Practice\Practice\obj\Debug\Practice.csprojResolveAssemblyReference.cache
+V:\Temp Files for ACA\csharp-workbook\01Week\Practice\Practice\obj\Debug\Practice.exe
+V:\Temp Files for ACA\csharp-workbook\01Week\Practice\Practice\obj\Debug\Practice.pdb
