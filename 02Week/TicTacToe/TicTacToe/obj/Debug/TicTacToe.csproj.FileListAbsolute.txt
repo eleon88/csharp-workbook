@@ -4,3 +4,9 @@ C:\Users\Eric Leon\Documents\git\csharp-workbook\02Week\TicTacToe\TicTacToe\bin\
 C:\Users\Eric Leon\Documents\git\csharp-workbook\02Week\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csprojResolveAssemblyReference.cache
 C:\Users\Eric Leon\Documents\git\csharp-workbook\02Week\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe
 C:\Users\Eric Leon\Documents\git\csharp-workbook\02Week\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb
+V:\Temp Files for ACA\csharp-workbook\02Week\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe.config
+V:\Temp Files for ACA\csharp-workbook\02Week\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb
+V:\Temp Files for ACA\csharp-workbook\02Week\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
+V:\Temp Files for ACA\csharp-workbook\02Week\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+V:\Temp Files for ACA\csharp-workbook\02Week\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csprojResolveAssemblyReference.cache
+V:\Temp Files for ACA\csharp-workbook\02Week\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe

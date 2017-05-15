@@ -1,0 +1,6 @@
+V:\Temp Files for ACA\csharp-workbook\02Week\PigL\PigL\bin\Debug\PigL.exe.config
+V:\Temp Files for ACA\csharp-workbook\02Week\PigL\PigL\bin\Debug\PigL.exe
+V:\Temp Files for ACA\csharp-workbook\02Week\PigL\PigL\bin\Debug\PigL.pdb
+V:\Temp Files for ACA\csharp-workbook\02Week\PigL\PigL\obj\Debug\PigL.csprojResolveAssemblyReference.cache
+V:\Temp Files for ACA\csharp-workbook\02Week\PigL\PigL\obj\Debug\PigL.exe
+V:\Temp Files for ACA\csharp-workbook\02Week\PigL\PigL\obj\Debug\PigL.pdb

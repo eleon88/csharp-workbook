@@ -1,0 +1,6 @@
+V:\Temp Files for ACA\csharp-workbook\02Week\TicTacToe2\TicTacToe2\bin\Debug\TicTacToe2.exe.config
+V:\Temp Files for ACA\csharp-workbook\02Week\TicTacToe2\TicTacToe2\bin\Debug\TicTacToe2.exe
+V:\Temp Files for ACA\csharp-workbook\02Week\TicTacToe2\TicTacToe2\bin\Debug\TicTacToe2.pdb
+V:\Temp Files for ACA\csharp-workbook\02Week\TicTacToe2\TicTacToe2\obj\Debug\TicTacToe2.csprojResolveAssemblyReference.cache
+V:\Temp Files for ACA\csharp-workbook\02Week\TicTacToe2\TicTacToe2\obj\Debug\TicTacToe2.exe
+V:\Temp Files for ACA\csharp-workbook\02Week\TicTacToe2\TicTacToe2\obj\Debug\TicTacToe2.pdb

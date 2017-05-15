@@ -4,3 +4,5 @@ C:\Users\Eric Leon\Documents\git\csharp-workbook\01Week\PigLatin\PigLatin\bin\De
 C:\Users\Eric Leon\Documents\git\csharp-workbook\01Week\PigLatin\PigLatin\obj\Debug\PigLatin.csprojResolveAssemblyReference.cache
 C:\Users\Eric Leon\Documents\git\csharp-workbook\01Week\PigLatin\PigLatin\obj\Debug\PigLatin.exe
 C:\Users\Eric Leon\Documents\git\csharp-workbook\01Week\PigLatin\PigLatin\obj\Debug\PigLatin.pdb
+V:\Temp Files for ACA\csharp-workbook\01Week\PigLatin\PigLatin\bin\Debug\PigLatin.exe.config
+V:\Temp Files for ACA\csharp-workbook\01Week\PigLatin\PigLatin\obj\Debug\PigLatin.pdb

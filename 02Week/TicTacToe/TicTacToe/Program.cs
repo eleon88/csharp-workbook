@@ -29,6 +29,7 @@ namespace TicTacToe
         {
             while (PlayerWon == false)
             {
+                PlayerTurn = (PlayerTurn == "X") ? "O" : "X";
                 //call player turn
                 Console.WriteLine(PlayerTurn + " is your turn");
                 Console.WriteLine("Enter a row");
@@ -38,6 +39,7 @@ namespace TicTacToe
                 column = int.Parse(Console.ReadLine()) - 1;
 
                 board[row][column] = PlayerTurn;
+                
 
                 checkPlayerWin(PlayerWon, board, PlayerTurn);
             }
@@ -46,7 +48,7 @@ namespace TicTacToe
         public static void checkPlayerWin(bool PlayerWon, string [][] board, string PlayerTurn)
         {
             PlayerWon = IsPlayerwin(board, PlayerTurn);
-            PlayerTurn = (PlayerTurn == "X") ? "O" : "X";
+            
         }
 
         static bool IsPlayerwin(string [][] board, string PlayerTurn)
